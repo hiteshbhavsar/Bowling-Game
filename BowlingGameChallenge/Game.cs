@@ -359,7 +359,7 @@ namespace BowlingGameChallenge
             Console.WriteLine();
         }
          static void Main(string[] args) {
-            Program.OtherMain();
+            
             Console.WriteLine("Welcome to the BowLing Game Challenge");
             DisplayMessage();
             int ch = Int32.Parse(Console.ReadLine());
