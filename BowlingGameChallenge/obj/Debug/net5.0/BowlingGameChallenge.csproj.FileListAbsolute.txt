@@ -1,0 +1,16 @@
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\bin\Debug\net5.0\BowlingGameChallenge.exe
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\bin\Debug\net5.0\BowlingGameChallenge.deps.json
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\bin\Debug\net5.0\BowlingGameChallenge.runtimeconfig.json
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\bin\Debug\net5.0\BowlingGameChallenge.runtimeconfig.dev.json
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\bin\Debug\net5.0\BowlingGameChallenge.dll
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\bin\Debug\net5.0\ref\BowlingGameChallenge.dll
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\bin\Debug\net5.0\BowlingGameChallenge.pdb
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\obj\Debug\net5.0\BowlingGameChallenge.csproj.AssemblyReference.cache
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\obj\Debug\net5.0\BowlingGameChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\obj\Debug\net5.0\BowlingGameChallenge.AssemblyInfoInputs.cache
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\obj\Debug\net5.0\BowlingGameChallenge.AssemblyInfo.cs
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\obj\Debug\net5.0\BowlingGameChallenge.csproj.CoreCompileInputs.cache
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\obj\Debug\net5.0\BowlingGameChallenge.dll
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\obj\Debug\net5.0\ref\BowlingGameChallenge.dll
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\obj\Debug\net5.0\BowlingGameChallenge.pdb
+C:\Users\hbhav\source\repos\BowlingGameChallenge\BowlingGameChallenge\obj\Debug\net5.0\BowlingGameChallenge.genruntimeconfig.cache
